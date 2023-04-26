@@ -1,23 +1,15 @@
 # 1. Problema de Negócio
 
 A empresa Fome Zero é um marketplace de restaurantes. Ou seja, seu core
-
 business é facilitar o encontro e negociações de clientes e restaurantes. Os
-
 restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza
-
 informações como endereço, tipo de culinária servida, se possui reservas, se faz
-
 entregas e também uma nota de avaliação dos serviços e produtos do restaurante,
-
 dentre outras informações.
 
 O projeto consiste em um dashboard estratégico e  interativo, gerado a partir de análises de 
-
 dados da empresa, com o intuito de responder às principais perguntas de negócio que 
-
 auxiliem o CEO da Fome Zero na tomada das melhores decisões estratégicas, visando alavancar 
-
 ainda mais a empresa.
 
 # 2. Premissas assumidas para a análise
